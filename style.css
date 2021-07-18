@@ -1,0 +1,19 @@
+.p1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: hotpink;
+}
+.p2{
+    font-family: 'Courier New', Courier, monospace;
+    color: pink;
+}
+.p3{
+    font-family: cursive;
+    color: lightpink;
+}
+img{
+    float: left;
+    border: 16px;
+    border-radius: 8px;
+    width: 35%;
+
+}
