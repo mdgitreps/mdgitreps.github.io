@@ -1,0 +1,21 @@
+.t1{
+    border:  16px solid black ;
+    float:left;
+    width: auto;
+    height: auto;
+
+}
+.t2{
+    border:  16px solid black ;
+    float:left;
+    width: auto;
+    height: auto;
+
+}
+img{
+    float: left;
+}
+th{
+
+text-align: center;
+}
