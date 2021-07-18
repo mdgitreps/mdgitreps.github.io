@@ -1,21 +1,19 @@
-.t1{
-    border:  16px solid black ;
-    float:left;
-    width: auto;
-    height: auto;
-
+.p1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: hotpink;
 }
-.t2{
-    border:  16px solid black ;
-    float:left;
-    width: auto;
-    height: auto;
-
+.p2{
+    font-family: 'Courier New', Courier, monospace;
+    color: pink;
+}
+.p3{
+    font-family: cursive;
+    color: lightpink;
 }
 img{
     float: left;
-}
-th{
+    border: 16px;
+    border-radius: 8px;
+    width: 35%;
 
-text-align: center;
 }
