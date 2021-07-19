@@ -47,8 +47,8 @@ h1{
     align-items: center;
 
 }
+
 td>img{
-    overflow: auto;
     width:150px;
     height:300px;
     border: 2px solid black;
